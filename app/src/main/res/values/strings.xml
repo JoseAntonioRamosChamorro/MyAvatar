@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Avatar</string>
+    <string name="btn_aceptar">Ok</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_crear"> Crear</string>
+    <string name="dlg_guardado">Salvar Datos</string>
+    <string name="dlg_cancelado">cancelar</string>
+    <string name="dlg_crear"> Crear Avatar</string>
+
+    <string name="lblNombre">Nombre</string>
+    <string name="lblSexo">Sexo</string>
+    <string name="lblRaza">Especie</string>
+    <string name="lblProfesion">Profesión</string>
+    <string name="txtNombre">Nombre</string>crear
+    <string name="txtSexo">Sexo</string>
+    <string name="txtRaza">Especie</string>
+    <string name="txtProfesion">Profesión</string>
+    <string name="rdHombre">Hombre</string>
+    <string name="rdMujer">Mujer</string>
+
+    <string name="lblEspecie">"Especies:"</string>
+    <string-array name="despegableEspecie">
+        <item>Humano</item>
+        <item>Elfo</item>
+        <item>Enano</item>
+        <item>Hobbit</item>
+    </string-array>
+
+    <string name="lblProfesiones">Profesión:</string>
+    <string-array name="despegableProfesion">
+        <item>Arquero</item>
+        <item>Guerrero</item>
+        <item>Mago</item>
+        <item>Herrero</item>
+        <item>Minero</item>
+    </string-array>
+    <string name="txtVida">Vida</string>
+    <string name="txtMagia">Magia</string>
+    <string name="txtFuerza">Fuerza</string>
+    <string name="txtVelocidad">Velocidad</string>
+</resources>
